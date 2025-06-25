@@ -12,8 +12,9 @@ Link - https://www.linkedin.com/feed/update/urn:li:activity:7285332646061121537/
 
 ## Project Overview
 
-This project involves detailed analysis of cyber attack and data breach incidents. The data was largely unstructured and was processed using advanced Excel functions and filters to organize and clean it effectively.
+In this project, I conducted a comprehensive analysis of cyber attack and data breach incidents. The data was largely unstructured, which I effectively organized and cleaned using advanced Excel functions and filters.
 
+During this project, I collaborated with Dr. Saligram Prajapat on data analysis and visualization to provide strong analytical support for his research.
 Following this, insightful and attractive dashboards were created in Tableau to clearly present trends and patterns in cyber attacks.
 
 
