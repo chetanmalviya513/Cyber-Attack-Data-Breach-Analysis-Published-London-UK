@@ -6,6 +6,7 @@ Link - https://link.springer.com/chapter/10.1007/978-3-031-74443-3_33?
 ## 🎉 Exciting Achievement! 🎉
 
 I am thrilled to share that my data analysis skills combined with expertise in Tableau visualization have been published in the Contribution section of the prestigious International Conference on Computing, Communication, Cybersecurity, and AI in London, UK. 🚀
+Link - https://www.linkedin.com/feed/update/urn:li:activity:7285332646061121537/
 
 ## Project Overview
 
